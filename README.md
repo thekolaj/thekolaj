@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning PHP<br>🎯 Goals: Mastering Symfony<br>🎲 Fun fact: Tomatoes are fruits</p>
+<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently working with PHP<br>🎯 Goals: Learining golang<br>🎲 Fun fact: Bool as DB value is almost always a mistake</p>
 
 ###
 
@@ -60,9 +60,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekolaj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thekolaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-<a href="https://www.codewars.com/users/thekolaj"><div align="center"><img src="https://www.codewars.com/users/thekolaj/badges/large"></div></a>
 <div align="center">https://leetcode.com/u/kolaj/</div>
